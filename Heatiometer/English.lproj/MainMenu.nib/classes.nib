@@ -1,0 +1,25 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {sliderSlid = id; }; 
+            CLASS = Heatiometer; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                celsiusField = NSTextField; 
+                delisleField = NSTextField; 
+                fahrenheitField = NSTextField; 
+                frostField = NSTextField; 
+                kelvinField = NSTextField; 
+                leydenField = NSTextField; 
+                newtonField = NSTextField; 
+                rankineField = NSTextField; 
+                reaumurField = NSTextField; 
+                romerField = NSTextField; 
+                slider = NSSlider; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

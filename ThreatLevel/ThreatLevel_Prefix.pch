@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ThreatLevel' target in the 'ThreatLevel' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

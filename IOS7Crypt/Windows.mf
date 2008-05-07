@@ -1,0 +1,12 @@
+# Run insideofa Visual Studio command line environment
+CC = "cl" # Replace with your compiler
+DELETE = "del"
+EXECUTABLE = "ios7crypt.exe"
+
+all: CommandLine.cpp CommandLine.h IOS7Crypt.cpp IOS7Crypt.h XGetopt.cpp XGetopt.h
+	$(DELETE) $(EXECUTABLE)
+	$(CC) /EHsc /D WIN32 CommandLine.cpp IOS7Crypt.cpp XGetopt.cpp /Fe$(EXECUTABLE)
+	$(DELETE) *.obj
+
+clean:
+	$(DELETE) $(EXECUTABLE)

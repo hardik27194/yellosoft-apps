@@ -1,0 +1,23 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {about = id; preferences = id; refresh = id; visitSite = id; }; 
+            CLASS = AppDelegate; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                aboutMenuItem = NSMenuItem; 
+                downMenuItem = NSMenuItem; 
+                menu = NSMenu; 
+                preferencesMenuItem = NSMenuItem; 
+                preferencesPanel = NSPanel; 
+                quitMenuItem = NSMenuItem; 
+                refreshMenuItem = NSMenuItem; 
+                unknownMenuItem = NSMenuItem; 
+                upMenuItem = NSMenuItem; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

@@ -1,0 +1,173 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 519}}";
+			sepNavSelRange = "{98, 0}";
+			sepNavVisRect = "{{0, 0}, {901, 519}}";
+			sepNavWindowFrame = "{{38, 104}, {946, 648}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 49F864B80D1F161600630644 /* IOS7Crypt */;
+		activeTarget = 8D1107260486CEB800E47090 /* IOS7Crypt */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* IOS7Crypt */,
+		);
+		breakpoints = (
+		);
+		breakpointsGroup = 49F276F40D6259B00057BE91 /* XCBreakpointsBucket */;
+		codeSenseManager = 49F864C60D1F163500630644 /* Code sense */;
+		executables = (
+			49F864B80D1F161600630644 /* IOS7Crypt */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 226547271;
+			PBXWorkspaceStateSaveDate = 226547271;
+		};
+		sourceControlManager = 49F864C50D1F163500630644 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 519}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {901, 519}}";
+			sepNavWindowFrame = "{{61, 83}, {946, 648}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* IOS7Crypt_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 519}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {901, 519}}";
+			sepNavWindowFrame = "{{15, 125}, {946, 648}}";
+		};
+	};
+	49F276F40D6259B00057BE91 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+		);
+	};
+	49F818100D639F1F00AE40F8 /* IOS7Crypt.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {646, 1232}}";
+			sepNavSelRange = "{628, 2}";
+			sepNavVisRect = "{{0, 348}, {646, 186}}";
+			sepNavWindowFrame = "{{15, 125}, {946, 648}}";
+		};
+	};
+	49F864B80D1F161600630644 /* IOS7Crypt */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = IOS7Crypt;
+		sourceDirectories = (
+		);
+	};
+	49F864C50D1F163500630644 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	49F864C60D1F163500630644 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	49F864C70D1F165100630644 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 519}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {901, 519}}";
+			sepNavWindowFrame = "{{92, 130}, {946, 648}}";
+		};
+	};
+	49F864C80D1F165100630644 /* AppDelegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {646, 616}}";
+			sepNavSelRange = "{149, 18}";
+			sepNavVisRect = "{{0, 0}, {646, 186}}";
+			sepNavWindowFrame = "{{87, 130}, {946, 648}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* IOS7Crypt */ = {
+		activeExec = 0;
+		executables = (
+			49F864B80D1F161600630644 /* IOS7Crypt */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 519}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {901, 519}}";
+			sepNavWindowFrame = "{{84, 62}, {946, 648}}";
+		};
+	};
+}

@@ -1,0 +1,31 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {about = id; browseAndSetImage = id; preferences = id; }; 
+            CLASS = AppDelegate; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                aboutMenuItem = NSMenuItem; 
+                browseButton = NSButton; 
+                menu = NSMenu; 
+                preferencesMenuItem = NSMenuItem; 
+                preferencesPanel = NSPanel; 
+                quitMenuItem = NSMenuItem; 
+                wallpaperPreview = NSImageView; 
+                wallpaperView = NSImageView; 
+                wallpaperWindow = NSWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {buttonCloseHit = id; buttonMinHit = id; }; 
+            CLASS = GBoxView; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSView; 
+        }, 
+        {CLASS = NSSegmentedControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {CLASS = TransparentWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }
+    ); 
+    IBVersion = 1; 
+}

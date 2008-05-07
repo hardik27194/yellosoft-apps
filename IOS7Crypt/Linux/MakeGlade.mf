@@ -1,0 +1,11 @@
+UNIX = 1
+
+CC = "g++" # Replace with your compiler
+DELETE = "rm"
+EXECUTABLE = "ios7cryptgui.bin"
+
+all: IOS7CryptGUI.cpp ../IOS7Crypt.h ../IOS7Crypt.cpp
+	$(CC) -o $(EXECUTABLE) IOS7CryptGUI.cpp `pkg-config gtkmm-2.4 libglademm-2.4 --cflags --libs` ../IOS7Crypt.cpp
+
+clean:
+	$(DELETE) $(EXECUTABLE)

@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'HexTime' target in the 'HexTime' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

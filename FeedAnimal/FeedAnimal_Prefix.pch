@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'FeedAnimal' target in the 'FeedAnimal' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif

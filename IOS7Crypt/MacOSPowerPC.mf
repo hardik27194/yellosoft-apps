@@ -1,0 +1,11 @@
+UNIX = 1
+
+CC = "powerpc-apple-darwin8-g++-4.0.1" # Replace with your compiler
+DELETE = "rm"
+EXECUTABLE = "ios7crypt"
+
+all: CommandLine.cpp CommandLine.h IOS7Crypt.cpp IOS7Crypt.h
+	$(CC) -o $(EXECUTABLE) CommandLine.cpp IOS7Crypt.cpp
+
+clean:
+	$(DELETE) $(EXECUTABLE)
