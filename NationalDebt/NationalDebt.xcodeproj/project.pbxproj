@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		49A9F6450D36F9D200B9F4B3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 49A9F6440D36F9D200B9F4B3 /* AppDelegate.m */; };
 		49A9F6560D36FA2200B9F4B3 /* NationalDebt.m in Sources */ = {isa = PBXBuildFile; fileRef = 49A9F6550D36FA2200B9F4B3 /* NationalDebt.m */; };
+		49E21B310DD4ED7F00F8968A /* Defaults.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49E21B300DD4ED7F00F8968A /* Defaults.plist */; };
 		49E74A340D3709190067733F /* half dollar.icns in Resources */ = {isa = PBXBuildFile; fileRef = 49E74A330D3709190067733F /* half dollar.icns */; };
 		8D11072A0486CEB800E47090 /* MainMenu.nib in Resources */ = {isa = PBXBuildFile; fileRef = 29B97318FDCFA39411CA2CEA /* MainMenu.nib */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
@@ -29,6 +30,7 @@
 		49A9F6440D36F9D200B9F4B3 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		49A9F6540D36FA2200B9F4B3 /* NationalDebt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NationalDebt.h; sourceTree = "<group>"; };
 		49A9F6550D36FA2200B9F4B3 /* NationalDebt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NationalDebt.m; sourceTree = "<group>"; };
+		49E21B300DD4ED7F00F8968A /* Defaults.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Defaults.plist; sourceTree = "<group>"; };
 		49E74A330D3709190067733F /* half dollar.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "half dollar.icns"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* NationalDebt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NationalDebt.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -111,6 +113,7 @@
 				8D1107310486CEB800E47090 /* Info.plist */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
 				29B97318FDCFA39411CA2CEA /* MainMenu.nib */,
+				49E21B300DD4ED7F00F8968A /* Defaults.plist */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -151,9 +154,11 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "NationalDebt" */;
+			compatibilityVersion = "Xcode 2.4";
 			hasScannedForEncodings = 1;
 			mainGroup = 29B97314FDCFA39411CA2CEA /* NationalDebt */;
 			projectDirPath = "";
+			projectRoot = "";
 			targets = (
 				8D1107260486CEB800E47090 /* NationalDebt */,
 			);
@@ -168,6 +173,7 @@
 				8D11072A0486CEB800E47090 /* MainMenu.nib in Resources */,
 				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
 				49E74A340D3709190067733F /* half dollar.icns in Resources */,
+				49E21B310DD4ED7F00F8968A /* Defaults.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -9,6 +9,7 @@
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 49A7ED120D355B0A0096BCFD /* FirefoxCounter */;
 		activeTarget = 8D1107260486CEB800E47090 /* FirefoxCounter */;
@@ -78,8 +79,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 226873418;
-			PBXWorkspaceStateSaveDate = 226873418;
+			PBXPerProjectTemplateStateSaveDate = 232058726;
+			PBXWorkspaceStateSaveDate = 232058726;
 		};
 		sourceControlManager = 49A7ED210D355B280096BCFD /* Source Control */;
 		userBuildSettings = {
@@ -103,12 +104,12 @@
 	};
 	49A7ED120D355B0A0096BCFD /* FirefoxCounter */ = {
 		isa = PBXExecutable;
-		activeArgIndex = 2147483647;
 		activeArgIndices = (
 		);
 		argumentStrings = (
 		);
 		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
 		configStateDict = {
 		};
 		customDataFormattersEnabled = 1;

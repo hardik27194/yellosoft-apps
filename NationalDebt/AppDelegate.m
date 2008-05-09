@@ -23,6 +23,20 @@
 }
 
 -(void) awakeFromNib {
+	defaults=[[NSUserDefaults standardUserDefaults] retain];
+
+	NSDictionary *dict=[
+		NSDictionary dictionaryWithContentsOfFile:[
+			[NSBundle mainBundle] pathForResource:@"Defaults" ofType:@"plist"
+		]
+	];
+
+	[defaults registerDefaults:dict];
+
+	int refreshRate=[defaults integerForKey:@"refreshRate"];
+
+	printf("Detected refreshRate: %d\n", refreshRate);
+
 	statusItem=[[[NSStatusBar systemStatusBar] statusItemWithLength:NSVariableStatusItemLength] retain];
 	[statusItem setMenu:menu];
 	[statusItem setHighlightMode:YES];
@@ -30,7 +44,7 @@
 	[statusItem setTitle:@"$"];
 	[statusItem setEnabled:YES];
 
-	timer=[NSTimer scheduledTimerWithTimeInterval:300 target:self selector:@selector(update) userInfo:nil repeats:YES];
+	timer=[NSTimer scheduledTimerWithTimeInterval:refreshRate target:self selector:@selector(update) userInfo:nil repeats:YES];
 	[timer fire];
 }
 
@@ -51,6 +65,12 @@
 
 -(IBAction) refresh: (id) sender {
 	[self update];
+}
+
+-(IBAction) preferences: (id) sender {
+	NSApplication *app=[NSApplication sharedApplication];
+	[app activateIgnoringOtherApps:YES];
+	[preferencesPanel makeKeyAndOrderFront:sender];
 }
 
 -(IBAction) about: (id) sender {

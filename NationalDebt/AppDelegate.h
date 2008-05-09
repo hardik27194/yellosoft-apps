@@ -9,6 +9,8 @@
 #import <Cocoa/Cocoa.h>
 
 @interface AppDelegate: NSObject {
+	NSUserDefaults *defaults;
+	IBOutlet NSPanel *preferencesPanel;
 	NSStatusItem *statusItem;
 	IBOutlet NSMenu *menu;
 
@@ -20,6 +22,7 @@
 
 -(void) update;
 -(IBAction) refresh: (id) sender;
+-(IBAction) preferences: (id) sender;
 -(IBAction) about: (id) sender;
 
 @end

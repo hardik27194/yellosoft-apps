@@ -9,7 +9,8 @@
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
-		activeBuildConfigurationName = Debug;
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Release;
 		activeExecutable = 49A9F6220D36F8AD00B9F4B3 /* NationalDebt */;
 		activeTarget = 8D1107260486CEB800E47090 /* NationalDebt */;
 		addToTargets = (
@@ -64,8 +65,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 224045476;
-			PBXWorkspaceStateSaveDate = 224045476;
+			PBXPerProjectTemplateStateSaveDate = 232058958;
+			PBXWorkspaceStateSaveDate = 232058958;
 		};
 		sourceControlManager = 49A9F6360D36F8EA00B9F4B3 /* Source Control */;
 		userBuildSettings = {
@@ -89,12 +90,12 @@
 	};
 	49A9F6220D36F8AD00B9F4B3 /* NationalDebt */ = {
 		isa = PBXExecutable;
-		activeArgIndex = 2147483647;
 		activeArgIndices = (
 		);
 		argumentStrings = (
 		);
 		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
 		configStateDict = {
 		};
 		customDataFormattersEnabled = 1;
@@ -127,16 +128,18 @@
 	};
 	49A9F6430D36F9D200B9F4B3 /* AppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {901, 519}}";
-			sepNavSelRange = "{0, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {887, 520}}";
+			sepNavSelRange = "{503, 0}";
+			sepNavVisRange = "{0, 578}";
 			sepNavVisRect = "{{0, 0}, {901, 519}}";
 			sepNavWindowFrame = "{{15, 125}, {946, 648}}";
 		};
 	};
 	49A9F6440D36F9D200B9F4B3 /* AppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {901, 868}}";
-			sepNavSelRange = "{0, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {887, 1148}}";
+			sepNavSelRange = "{775, 0}";
+			sepNavVisRange = "{288, 941}";
 			sepNavVisRect = "{{0, 0}, {901, 519}}";
 			sepNavWindowFrame = "{{38, 104}, {946, 648}}";
 		};
@@ -157,6 +160,14 @@
 			sepNavWindowFrame = "{{84, 62}, {946, 648}}";
 		};
 	};
+	49E21B300DD4ED7F00F8968A /* Defaults.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 244}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
 	8D1107260486CEB800E47090 /* NationalDebt */ = {
 		activeExec = 0;
 		executables = (
@@ -165,8 +176,9 @@
 	};
 	8D1107310486CEB800E47090 /* Info.plist */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {901, 519}}";
+			sepNavIntBoundsRect = "{{0, 0}, {887, 520}}";
 			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 961}";
 			sepNavVisRect = "{{0, 0}, {901, 519}}";
 			sepNavWindowFrame = "{{15, 125}, {946, 648}}";
 		};
