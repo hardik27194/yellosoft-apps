@@ -1,0 +1,331 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* IOS7CryptAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 350}}";
+			sepNavSelRange = "{172, 0}";
+			sepNavVisRange = "{92, 506}";
+		};
+	};
+	1D3623250D0F684500981E51 /* IOS7CryptAppDelegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 826}}";
+			sepNavSelRange = "{624, 0}";
+			sepNavVisRange = "{0, 440}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* IOS7Crypt */ = {
+		activeExec = 0;
+		executables = (
+			49712FBF0DD6697500252FE9 /* IOS7Crypt */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 49712FBF0DD6697500252FE9 /* IOS7Crypt */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* IOS7Crypt */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* IOS7Crypt */,
+		);
+		codeSenseManager = 49712FC70DD6698B00252FE9 /* Code sense */;
+		executables = (
+			49712FBF0DD6697500252FE9 /* IOS7Crypt */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 232250070;
+			PBXWorkspaceStateSaveDate = 232250070;
+		};
+		perUserProjectItems = {
+			4936A0890DD7DAE40043A38C /* PBXBookmark */ = 4936A0890DD7DAE40043A38C /* PBXBookmark */;
+			4936A08B0DD7DAE40043A38C /* PBXBookmark */ = 4936A08B0DD7DAE40043A38C /* PBXBookmark */;
+			4936A0E00DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E00DD7E5380043A38C /* PBXTextBookmark */;
+			4936A0E10DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E10DD7E5380043A38C /* PBXTextBookmark */;
+			4936A0E20DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E20DD7E5380043A38C /* PBXTextBookmark */;
+			4936A0E30DD7E5380043A38C /* PBXBookmark */ = 4936A0E30DD7E5380043A38C /* PBXBookmark */;
+			4936A0E40DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E40DD7E5380043A38C /* PBXTextBookmark */;
+			4936A0E50DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E50DD7E5380043A38C /* PBXTextBookmark */;
+			4936A0E60DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E60DD7E5380043A38C /* PBXTextBookmark */;
+			4936A0E70DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E70DD7E5380043A38C /* PBXTextBookmark */;
+			4936A0E80DD7E5380043A38C /* PBXBookmark */ = 4936A0E80DD7E5380043A38C /* PBXBookmark */;
+			4936A0E90DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E90DD7E5380043A38C /* PBXTextBookmark */;
+			4936A0EA0DD7E5380043A38C /* PBXBookmark */ = 4936A0EA0DD7E5380043A38C /* PBXBookmark */;
+			49712FF80DD66E2700252FE9 /* PBXTextBookmark */ = 49712FF80DD66E2700252FE9 /* PBXTextBookmark */;
+			49712FFD0DD66E2700252FE9 /* PBXTextBookmark */ = 49712FFD0DD66E2700252FE9 /* PBXTextBookmark */;
+			49712FFF0DD66E2700252FE9 /* PBXTextBookmark */ = 49712FFF0DD66E2700252FE9 /* PBXTextBookmark */;
+			497130000DD66E2700252FE9 /* PBXTextBookmark */ = 497130000DD66E2700252FE9 /* PBXTextBookmark */;
+			497130010DD66E2700252FE9 /* PBXTextBookmark */ = 497130010DD66E2700252FE9 /* PBXTextBookmark */;
+			497130020DD66E2700252FE9 /* PBXBookmark */ = 497130020DD66E2700252FE9 /* PBXBookmark */;
+		};
+		sourceControlManager = 49712FC60DD6698B00252FE9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 268}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 345}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* IOS7Crypt_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {552, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 179}";
+		};
+	};
+	4936A0890DD7DAE40043A38C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 49A4221A0DD676DE00E31D3E /* logo.png */;
+	};
+	4936A08B0DD7DAE40043A38C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 49A4221A0DD676DE00E31D3E /* logo.png */;
+	};
+	4936A0E00DD7E5380043A38C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* IOS7CryptAppDelegate.mm */;
+		name = "IOS7CryptAppDelegate.mm: 30";
+		rLen = 0;
+		rLoc = 624;
+		rType = 0;
+		vrLen = 440;
+		vrLoc = 0;
+	};
+	4936A0E10DD7E5380043A38C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 0;
+	};
+	4936A0E20DD7E5380043A38C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* IOS7CryptAppDelegate.h */;
+		name = "IOS7CryptAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 172;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 92;
+	};
+	4936A0E30DD7E5380043A38C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		name = /Users/andrew/Desktop/src/yellosoft/IOS7Crypt/iPhone/Info.plist;
+	};
+	4936A0E40DD7E5380043A38C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* IOS7CryptAppDelegate.mm */;
+		name = "IOS7CryptAppDelegate.mm: 30";
+		rLen = 0;
+		rLoc = 624;
+		rType = 0;
+		vrLen = 440;
+		vrLoc = 0;
+	};
+	4936A0E50DD7E5380043A38C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* IOS7CryptAppDelegate.h */;
+		name = "IOS7CryptAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 172;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 92;
+	};
+	4936A0E60DD7E5380043A38C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* IOS7CryptAppDelegate.mm */;
+		name = "IOS7CryptAppDelegate.mm: 30";
+		rLen = 0;
+		rLoc = 624;
+		rType = 0;
+		vrLen = 440;
+		vrLoc = 0;
+	};
+	4936A0E70DD7E5380043A38C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 0;
+	};
+	4936A0E80DD7E5380043A38C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		name = /Users/andrew/Desktop/src/yellosoft/IOS7Crypt/iPhone/Info.plist;
+	};
+	4936A0E90DD7E5380043A38C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* IOS7CryptAppDelegate.h */;
+		name = "IOS7CryptAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 172;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 92;
+	};
+	4936A0EA0DD7E5380043A38C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		name = /Users/andrew/Desktop/src/yellosoft/IOS7Crypt/iPhone/Info.plist;
+	};
+	49712FBF0DD6697500252FE9 /* IOS7Crypt */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = IOS7Crypt;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	49712FC30DD6698B00252FE9 /* IOS7Crypt.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 742}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 526}";
+		};
+	};
+	49712FC40DD6698B00252FE9 /* IOS7Crypt.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 268}}";
+			sepNavSelRange = "{0, 18}";
+			sepNavVisRange = "{0, 271}";
+		};
+	};
+	49712FC60DD6698B00252FE9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	49712FC70DD6698B00252FE9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	49712FF80DD66E2700252FE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* IOS7Crypt_Prefix.pch */;
+		name = "IOS7Crypt_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	49712FFD0DD66E2700252FE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* IOS7CryptAppDelegate.h */;
+		name = "IOS7CryptAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 0;
+	};
+	49712FFF0DD66E2700252FE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* IOS7CryptAppDelegate.mm */;
+		name = "IOS7CryptAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	497130000DD66E2700252FE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* IOS7Crypt_Prefix.pch */;
+		name = "IOS7Crypt_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	497130010DD66E2700252FE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 0;
+	};
+	497130020DD66E2700252FE9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		name = /Users/andrew/Desktop/src/yellosoft/IOS7Crypt/iPhone/IOS7Crypt/Info.plist;
+	};
+}

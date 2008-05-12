@@ -1,0 +1,1 @@
+To use a YubNub shortcut, enter a URL in Safari that begins with yn:// and press the Go button. E.g. 'yn://gim dogs'

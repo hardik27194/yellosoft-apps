@@ -9,6 +9,7 @@
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
 		activeBuildConfigurationName = Release;
 		activeExecutable = 49F864B80D1F161600630644 /* IOS7Crypt */;
 		activeTarget = 8D1107260486CEB800E47090 /* IOS7Crypt */;
@@ -17,7 +18,6 @@
 		);
 		breakpoints = (
 		);
-		breakpointsGroup = 49F276F40D6259B00057BE91 /* XCBreakpointsBucket */;
 		codeSenseManager = 49F864C60D1F163500630644 /* Code sense */;
 		executables = (
 			49F864B80D1F161600630644 /* IOS7Crypt */,
@@ -28,7 +28,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					243,
+					330,
 					20,
 					48,
 					43,
@@ -50,8 +50,8 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					200,
-					63,
+					290,
+					60,
 					20,
 					48,
 					43,
@@ -67,8 +67,19 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 226547271;
-			PBXWorkspaceStateSaveDate = 226547271;
+			PBXPerProjectTemplateStateSaveDate = 232158703;
+			PBXWorkspaceStateSaveDate = 232158703;
+		};
+		perUserProjectItems = {
+			49712FDF0DD66C4700252FE9 /* PBXTextBookmark */ = 49712FDF0DD66C4700252FE9 /* PBXTextBookmark */;
+			49712FE10DD66C4700252FE9 /* PBXTextBookmark */ = 49712FE10DD66C4700252FE9 /* PBXTextBookmark */;
+			49712FE20DD66C4700252FE9 /* PBXTextBookmark */ = 49712FE20DD66C4700252FE9 /* PBXTextBookmark */;
+			49712FE30DD66C4700252FE9 /* PBXTextBookmark */ = 49712FE30DD66C4700252FE9 /* PBXTextBookmark */;
+			49A421C50DD6743700E31D3E /* PBXTextBookmark */ = 49A421C50DD6743700E31D3E /* PBXTextBookmark */;
+			49A421C60DD6743700E31D3E /* PBXTextBookmark */ = 49A421C60DD6743700E31D3E /* PBXTextBookmark */;
+			49A421C70DD6743700E31D3E /* PBXTextBookmark */ = 49A421C70DD6743700E31D3E /* PBXTextBookmark */;
+			49A421D50DD6744F00E31D3E /* PBXTextBookmark */ = 49A421D50DD6744F00E31D3E /* PBXTextBookmark */;
+			49A422190DD6760C00E31D3E /* PBXTextBookmark */ = 49A422190DD6760C00E31D3E /* PBXTextBookmark */;
 		};
 		sourceControlManager = 49F864C50D1F163500630644 /* Source Control */;
 		userBuildSettings = {
@@ -90,28 +101,120 @@
 			sepNavWindowFrame = "{{15, 125}, {946, 648}}";
 		};
 	};
-	49F276F40D6259B00057BE91 /* XCBreakpointsBucket */ = {
-		isa = XCBreakpointsBucket;
-		name = "Project Breakpoints";
-		objects = (
-		);
+	49712FDF0DD66C4700252FE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49F864C70D1F165100630644 /* AppDelegate.h */;
+		name = "AppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	49712FE10DD66C4700252FE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49F818100D639F1F00AE40F8 /* IOS7Crypt.cpp */;
+		name = "IOS7Crypt.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 113;
+		vrLoc = 0;
+	};
+	49712FE20DD66C4700252FE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49F818110D639F1F00AE40F8 /* IOS7Crypt.h */;
+		name = "IOS7Crypt.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 125;
+		vrLoc = 0;
+	};
+	49712FE30DD66C4700252FE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49F864C70D1F165100630644 /* AppDelegate.h */;
+		name = "AppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	49A421C50DD6743700E31D3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49F864C80D1F165100630644 /* AppDelegate.mm */;
+		name = "AppDelegate.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	49A421C60DD6743700E31D3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49F818110D639F1F00AE40F8 /* IOS7Crypt.h */;
+		name = "IOS7Crypt.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 271;
+		vrLoc = 0;
+	};
+	49A421C70DD6743700E31D3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49F864C80D1F165100630644 /* AppDelegate.mm */;
+		name = "AppDelegate.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	49A421D50DD6744F00E31D3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49F818100D639F1F00AE40F8 /* IOS7Crypt.cpp */;
+		name = "IOS7Crypt.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 0;
+	};
+	49A422190DD6760C00E31D3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49F818100D639F1F00AE40F8 /* IOS7Crypt.cpp */;
+		name = "IOS7Crypt.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 0;
 	};
 	49F818100D639F1F00AE40F8 /* IOS7Crypt.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {646, 1232}}";
-			sepNavSelRange = "{628, 2}";
+			sepNavIntBoundsRect = "{{0, 0}, {508, 658}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 491}";
 			sepNavVisRect = "{{0, 348}, {646, 186}}";
 			sepNavWindowFrame = "{{15, 125}, {946, 648}}";
 		};
 	};
+	49F818110D639F1F00AE40F8 /* IOS7Crypt.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {508, 227}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 271}";
+		};
+	};
 	49F864B80D1F161600630644 /* IOS7Crypt */ = {
 		isa = PBXExecutable;
-		activeArgIndex = 2147483647;
 		activeArgIndices = (
 		);
 		argumentStrings = (
 		);
 		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
 		configStateDict = {
 		};
 		customDataFormattersEnabled = 1;
@@ -142,16 +245,18 @@
 	};
 	49F864C70D1F165100630644 /* AppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {901, 519}}";
+			sepNavIntBoundsRect = "{{0, 0}, {508, 266}}";
 			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 366}";
 			sepNavVisRect = "{{0, 0}, {901, 519}}";
 			sepNavWindowFrame = "{{92, 130}, {946, 648}}";
 		};
 	};
 	49F864C80D1F165100630644 /* AppDelegate.mm */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {646, 616}}";
-			sepNavSelRange = "{149, 18}";
+			sepNavIntBoundsRect = "{{0, 0}, {508, 644}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 267}";
 			sepNavVisRect = "{{0, 0}, {646, 186}}";
 			sepNavWindowFrame = "{{87, 130}, {946, 648}}";
 		};
