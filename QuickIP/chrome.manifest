@@ -1,0 +1,4 @@
+content quickip chrome/content/
+
+overlay chrome://browser/content/browser.xul chrome://quickip/content/statusbar.xul
+overlay chrome://browser/content/browser.xul chrome://quickip/content/settings.xul

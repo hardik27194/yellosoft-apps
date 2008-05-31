@@ -77,8 +77,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 232250070;
-			PBXWorkspaceStateSaveDate = 232250070;
+			PBXPerProjectTemplateStateSaveDate = 232259128;
+			PBXWorkspaceStateSaveDate = 232259128;
 		};
 		perUserProjectItems = {
 			4936A0890DD7DAE40043A38C /* PBXBookmark */ = 4936A0890DD7DAE40043A38C /* PBXBookmark */;
@@ -86,13 +86,6 @@
 			4936A0E00DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E00DD7E5380043A38C /* PBXTextBookmark */;
 			4936A0E10DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E10DD7E5380043A38C /* PBXTextBookmark */;
 			4936A0E20DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E20DD7E5380043A38C /* PBXTextBookmark */;
-			4936A0E30DD7E5380043A38C /* PBXBookmark */ = 4936A0E30DD7E5380043A38C /* PBXBookmark */;
-			4936A0E40DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E40DD7E5380043A38C /* PBXTextBookmark */;
-			4936A0E50DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E50DD7E5380043A38C /* PBXTextBookmark */;
-			4936A0E60DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E60DD7E5380043A38C /* PBXTextBookmark */;
-			4936A0E70DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E70DD7E5380043A38C /* PBXTextBookmark */;
-			4936A0E80DD7E5380043A38C /* PBXBookmark */ = 4936A0E80DD7E5380043A38C /* PBXBookmark */;
-			4936A0E90DD7E5380043A38C /* PBXTextBookmark */ = 4936A0E90DD7E5380043A38C /* PBXTextBookmark */;
 			4936A0EA0DD7E5380043A38C /* PBXBookmark */ = 4936A0EA0DD7E5380043A38C /* PBXBookmark */;
 			49712FF80DD66E2700252FE9 /* PBXTextBookmark */ = 49712FF80DD66E2700252FE9 /* PBXTextBookmark */;
 			49712FFD0DD66E2700252FE9 /* PBXTextBookmark */ = 49712FFD0DD66E2700252FE9 /* PBXTextBookmark */;
@@ -100,6 +93,7 @@
 			497130000DD66E2700252FE9 /* PBXTextBookmark */ = 497130000DD66E2700252FE9 /* PBXTextBookmark */;
 			497130010DD66E2700252FE9 /* PBXTextBookmark */ = 497130010DD66E2700252FE9 /* PBXTextBookmark */;
 			497130020DD66E2700252FE9 /* PBXBookmark */ = 497130020DD66E2700252FE9 /* PBXBookmark */;
+			49D5BC8E0DD7FE9A0015BAE9 /* PBXBookmark */ = 49D5BC8E0DD7FE9A0015BAE9 /* PBXBookmark */;
 		};
 		sourceControlManager = 49712FC60DD6698B00252FE9 /* Source Control */;
 		userBuildSettings = {
@@ -148,66 +142,6 @@
 		vrLoc = 0;
 	};
 	4936A0E20DD7E5380043A38C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* IOS7CryptAppDelegate.h */;
-		name = "IOS7CryptAppDelegate.h: 11";
-		rLen = 0;
-		rLoc = 172;
-		rType = 0;
-		vrLen = 506;
-		vrLoc = 92;
-	};
-	4936A0E30DD7E5380043A38C /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
-		name = /Users/andrew/Desktop/src/yellosoft/IOS7Crypt/iPhone/Info.plist;
-	};
-	4936A0E40DD7E5380043A38C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* IOS7CryptAppDelegate.mm */;
-		name = "IOS7CryptAppDelegate.mm: 30";
-		rLen = 0;
-		rLoc = 624;
-		rType = 0;
-		vrLen = 440;
-		vrLoc = 0;
-	};
-	4936A0E50DD7E5380043A38C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* IOS7CryptAppDelegate.h */;
-		name = "IOS7CryptAppDelegate.h: 11";
-		rLen = 0;
-		rLoc = 172;
-		rType = 0;
-		vrLen = 506;
-		vrLoc = 92;
-	};
-	4936A0E60DD7E5380043A38C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* IOS7CryptAppDelegate.mm */;
-		name = "IOS7CryptAppDelegate.mm: 30";
-		rLen = 0;
-		rLoc = 624;
-		rType = 0;
-		vrLen = 440;
-		vrLoc = 0;
-	};
-	4936A0E70DD7E5380043A38C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
-		name = "main.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 345;
-		vrLoc = 0;
-	};
-	4936A0E80DD7E5380043A38C /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
-		name = /Users/andrew/Desktop/src/yellosoft/IOS7Crypt/iPhone/Info.plist;
-	};
-	4936A0E90DD7E5380043A38C /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623240D0F684500981E51 /* IOS7CryptAppDelegate.h */;
 		name = "IOS7CryptAppDelegate.h: 11";
@@ -327,5 +261,10 @@
 		isa = PBXBookmark;
 		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
 		name = /Users/andrew/Desktop/src/yellosoft/IOS7Crypt/iPhone/IOS7Crypt/Info.plist;
+	};
+	49D5BC8E0DD7FE9A0015BAE9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		name = /Users/andrew/Desktop/src/yellosoft/IOS7Crypt/iPhone/Info.plist;
 	};
 }

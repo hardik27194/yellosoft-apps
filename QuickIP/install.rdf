@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+<Description about="urn:mozilla:install-manifest">
+	<em:id>quickip@yellosoft.us</em:id>
+	<em:name>QuickIP</em:name>
+	<em:version>1.0.1</em:version>
+	<em:type>2</em:type>
+
+	<em:creator>YelloSoft</em:creator>
+	<em:description>Displays the external IP address in the statusbar.</em:description>
+	<em:homepageURL>http://yellosoft.us/index.php?id=70</em:homepageURL>
+	<em:iconURL>chrome://quickip/content/quickip.png</em:iconURL>
+	<em:optionsURL>chrome://quickip/content/settings.xul</em:optionsURL>
+
+	<!-- Firefox -->
+	<em:targetApplication>
+		<Description>
+			<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+			<em:minVersion>1.5</em:minVersion>
+			<em:maxVersion>3.0.*</em:maxVersion>
+		</Description>
+	</em:targetApplication>
+</Description>
+
+</RDF>
