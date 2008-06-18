@@ -1,0 +1,21 @@
+0.3 - 18 Jun 2008
+=================
+
+- Modified maxVersion for use with Firefox 3
+
+0.2.2 - 24 Nov 2006
+===================
+
+- Fix to customize toolbars bug in stop-or-reload (onemen)
+
+
+0.2 - 15 Sep 2005
+=================
+
+- repackage for Firefox 1.5 Beta 1
+
+
+0.1
+===
+
+- initial release

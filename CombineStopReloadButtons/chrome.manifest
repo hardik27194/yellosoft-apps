@@ -1,0 +1,4 @@
+content     combinestopreloadbuttons                     chrome/chromeFiles/content/
+skin        combinestopreloadbuttons       classic       chrome/chromeFiles/skin/
+
+overlay     chrome://browser/content/browser.xul      chrome://combinestopreloadbuttons/content/browserOverlay.xul
